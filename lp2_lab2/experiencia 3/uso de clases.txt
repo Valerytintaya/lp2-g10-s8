@@ -1,4 +1,0 @@
-#include "claseA.cpp"
-#include "claseC.cpp"
-
-SOLO SE USAN ESAS 2 CLASES
